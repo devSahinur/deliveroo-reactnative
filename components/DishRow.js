@@ -44,13 +44,13 @@ const DishRow = ({ id, title, price, description, image }) => {
           </View>
 
           <View>
-            {/* <Image
+            <Image
               style={{ borderWidth: 1, borderColor: "#F3F3F4" }}
               source={{
                 uri: urlFor(image).url(),
               }}
               className="w-20 h-20 bg-gray-300 p-4"
-            /> */}
+            />
           </View>
         </View>
       </TouchableOpacity>
