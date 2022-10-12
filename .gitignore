@@ -1,7 +1,6 @@
 node_modules/
 .expo/
 dist/
-sannity/
 sannity/node_modules/
 npm-debug.*
 *.jks
