@@ -25,6 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
+      ,"package": "com.deliveroo.deliveroo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
